@@ -1,0 +1,18 @@
+nav ul{
+	background-color: palegoldenrod;
+	background-position: center;
+	padding: 20px;
+	border: 20px;
+	border-color: khaki;
+
+}
+nav ul li{
+	margin-right: 15px;
+	margin-left: 15px;
+	list-style-type: upper-roman;
+	display: inline-block;
+}
+nav ul li a{
+	color: olive;
+	text-decoration: none;
+}
